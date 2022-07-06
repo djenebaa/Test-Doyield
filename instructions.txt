@@ -1,0 +1,4 @@
+1) L'objectif de ce test est de reproduire la page présentée dans le fichier "maquette.pdf".
+2) La page n'a pas à être lue par des téléphones ou des tablettes, mais elle doit pouvoir l'être par n'importe quel écran d'ordinateur.
+3) Notre attention se portera sur la précision de la reproduction ainsi que sur la qualité du code.
+4) Il n'y a pas de limites de temps, cependant, il vous sera demandé de vous chronométrer.
